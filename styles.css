@@ -106,7 +106,7 @@ body {
     box-shadow: 0vw 0vw 1vw -0.2vw white;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 768px) {
     body {
         background-color: #060932;
     }

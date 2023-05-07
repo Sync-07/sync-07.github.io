@@ -36,6 +36,6 @@ function SignUp() {
 
     else {
         ind.innerHTML = "Your account has been created.<br>You are being redirected to Login page...";
-        setTimeout("document.location.href = 'index.html';", 5000);
+        setTimeout("document.location.href = 'home/home.html';", 5000);
     }
 }
